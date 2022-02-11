@@ -1,0 +1,46 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@testing-library/jest-dom",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "@testing-library/react",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "@testing-library/user-event",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "node-sass-chokidar",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "react-components-local",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-dom",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "react-scripts",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "web-vitals",
+      "allowedCategories": [ "production", "tools" ]
+    }
+  ]
+}
